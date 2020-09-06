@@ -1,6 +1,7 @@
 /*  Program By : 
-				Prasad Dhobale.
-				9067404012
+			Name     :	Prasad Dhobale.
+			Number   :	9067404012
+			Email ID :      dhobaleprasad3@gmail.com	
 */
 #include<stdio.h>
 #include<stdlib.h>
