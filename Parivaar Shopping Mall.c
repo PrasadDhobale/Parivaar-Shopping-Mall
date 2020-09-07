@@ -1,9 +1,15 @@
 /*  Program By : 
+<<<<<<< HEAD
 			Name   : 	Prasad Dhobale.
 			Number :	9067404012
 
 			Name   :	Mayuri Narute
 			Number :	7558232254
+=======
+			Name     :	Prasad Dhobale.
+			Number   :	9067404012
+			Email ID :      dhobaleprasad3@gmail.com	
+>>>>>>> 16a39eb3ddb2d38084dae4c08a24b8ab64db9ebd
 */
 #include<stdio.h>
 #include<stdlib.h>
