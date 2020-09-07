@@ -1,6 +1,9 @@
 /*  Program By : 
-				Prasad Dhobale.
-				9067404012
+			Name   : 	Prasad Dhobale.
+			Number :	9067404012
+
+			Name   :	Mayuri Narute
+			Number :	7558232254
 */
 #include<stdio.h>
 #include<stdlib.h>
